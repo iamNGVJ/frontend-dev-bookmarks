@@ -13,6 +13,7 @@ The process of creating motion and shape change.
 + **[Animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
 + **[Anime.js](https://github.com/juliangarnier/anime)**: Anime is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
 + **[Approach](http://srobbin.com/jquery-plugins/approach/)**: A jQuery plugin that allows you to animate CSS properties based on distance to an object.
++ **[Bounce.js](http://bouncejs.com/)**: Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations. 
 + **[CSS Spritesheet Animation Example](http://jsfiddle.net/simurai/CGmCe/light/)**: Sprite Sheet animation with CSS3 using the steps() feature.
 + **[Caat](http://hyperandroid.github.io/CAAT/)**: Scene graph director-based animation framework for javascript.
 + **[CanvasScript3](http://www.arahaya.com/canvasscript3/)**: CanvasScript3 is a Javascript library for the new HTML5 Canvas with an interface similar to ActionScript3. This library enables Sprite Groups, Layers, Mouse Events, Keyboard Events, Bitmap Effects, Tween Animations etc.
